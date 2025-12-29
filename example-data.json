@@ -1,0 +1,202 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "id": "example-1",
+    "timestamp": "2024-01-15T10:30:00.000Z",
+    "lastModified": "2024-01-15T10:30:00.000Z",
+    "name": "Sony A7R III Camera",
+    "brand": "Sony",
+    "model": "ILCE-7RM3",
+    "serialNumber": "3411425",
+    "mpn": "ILCE-7RM3",
+    "classification": "Photography",
+    "description": "Professional full-frame mirrorless camera",
+    "offers": {
+      "@type": "Offer",
+      "price": 2798.00,
+      "priceCurrency": "USD",
+      "itemCondition": "New",
+      "validFrom": "2018-11-28",
+      "seller": "B&H Photo"
+    },
+    "currentValue": 2798.00,
+    "valueSource": "Original Invoice",
+    "ownershipInfo": {
+      "@type": "OwnershipInfo",
+      "owner": "John Doe",
+      "location": "Office",
+      "acquiredDate": "2018-11-28",
+      "quantity": 1,
+      "quantityAcquired": 1,
+      "quantityOnHand": 1,
+      "condition": "Excellent",
+      "conditionWhenPurchased": "New"
+    },
+    "warrantyInfo": {
+      "@type": "WarrantyPromise",
+      "durationOfWarranty": {
+        "@type": "QuantitativeValue",
+        "value": 12,
+        "unitCode": "MON",
+        "unitText": "months"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "id": "example-2",
+    "timestamp": "2024-02-10T14:20:00.000Z",
+    "lastModified": "2024-02-10T14:20:00.000Z",
+    "name": "MacBook Pro 16-inch",
+    "brand": "Apple",
+    "model": "MacBook Pro 16-inch 2023",
+    "serialNumber": "C02ZM263JV40",
+    "classification": "Computer",
+    "description": "M2 Max, 32GB RAM, 1TB SSD",
+    "offers": {
+      "@type": "Offer",
+      "price": 3499.00,
+      "priceCurrency": "USD",
+      "itemCondition": "New",
+      "validFrom": "2023-05-15"
+    },
+    "currentValue": 2999.00,
+    "valueSource": "Current market value",
+    "ownershipInfo": {
+      "@type": "OwnershipInfo",
+      "owner": "Jane Smith",
+      "location": "Home Office",
+      "acquiredDate": "2023-05-15",
+      "quantity": 1,
+      "condition": "Excellent"
+    },
+    "warrantyInfo": {
+      "@type": "WarrantyPromise",
+      "durationOfWarranty": {
+        "@type": "QuantitativeValue",
+        "value": 36,
+        "unitCode": "MON",
+        "unitText": "months"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "id": "example-3",
+    "timestamp": "2024-03-05T09:15:00.000Z",
+    "lastModified": "2024-03-05T09:15:00.000Z",
+    "name": "DEWALT Compound Miter Saw",
+    "brand": "DEWALT",
+    "model": "DWS715",
+    "serialNumber": "128604",
+    "gtin": "885911304429",
+    "classification": "Tools",
+    "description": "12-inch compound miter saw",
+    "offers": {
+      "@type": "Offer",
+      "price": 293.84,
+      "priceCurrency": "USD",
+      "itemCondition": "New",
+      "validFrom": "2021-11-27"
+    },
+    "currentValue": 200.00,
+    "valueSource": "Estimated",
+    "ownershipInfo": {
+      "@type": "OwnershipInfo",
+      "owner": "John Doe",
+      "location": "Garage",
+      "acquiredDate": "2021-11-27",
+      "quantity": 1,
+      "condition": "Good",
+      "notes": "No abnormalities observed"
+    },
+    "warrantyInfo": {
+      "@type": "WarrantyPromise",
+      "durationOfWarranty": {
+        "@type": "QuantitativeValue",
+        "value": 36,
+        "unitCode": "MON",
+        "unitText": "months"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "id": "example-4",
+    "timestamp": "2024-03-20T16:45:00.000Z",
+    "lastModified": "2024-03-20T16:45:00.000Z",
+    "name": "Dyson V11 Torque Drive Vacuum",
+    "brand": "Dyson",
+    "model": "268731-01",
+    "serialNumber": "C1J-US-MFJ8131A",
+    "classification": "Appliance",
+    "description": "Cordless vacuum cleaner",
+    "offers": {
+      "@type": "Offer",
+      "price": 536.24,
+      "priceCurrency": "USD",
+      "itemCondition": "New",
+      "validFrom": "2019-12-03"
+    },
+    "currentValue": 400.00,
+    "ownershipInfo": {
+      "@type": "OwnershipInfo",
+      "owner": "Family",
+      "location": "Utility Closet",
+      "acquiredDate": "2019-12-03",
+      "quantity": 1,
+      "condition": "Good"
+    },
+    "warrantyInfo": {
+      "@type": "WarrantyPromise",
+      "durationOfWarranty": {
+        "@type": "QuantitativeValue",
+        "value": 24,
+        "unitCode": "MON",
+        "unitText": "months"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "id": "example-5",
+    "timestamp": "2024-04-01T11:00:00.000Z",
+    "lastModified": "2024-04-01T11:00:00.000Z",
+    "name": "Samsung 34\" Ultrawide Monitor",
+    "brand": "Samsung",
+    "model": "S34J550",
+    "serialNumber": "902NTZN6E165",
+    "classification": "Computer",
+    "description": "34-inch curved ultrawide monitor, 3440x1440",
+    "offers": {
+      "@type": "Offer",
+      "price": 449.99,
+      "priceCurrency": "USD",
+      "itemCondition": "New",
+      "validFrom": "2022-08-15"
+    },
+    "currentValue": 350.00,
+    "ownershipInfo": {
+      "@type": "OwnershipInfo",
+      "owner": "Jane Smith",
+      "location": "Office",
+      "acquiredDate": "2022-08-15",
+      "quantity": 1,
+      "condition": "Excellent"
+    },
+    "warrantyInfo": {
+      "@type": "WarrantyPromise",
+      "durationOfWarranty": {
+        "@type": "QuantitativeValue",
+        "value": 36,
+        "unitCode": "MON",
+        "unitText": "months"
+      }
+    }
+  }
+]
